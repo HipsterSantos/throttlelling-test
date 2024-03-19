@@ -1,0 +1,20 @@
+# ignore all dependencies
+node_modules/
+
+# Output when build  TypeScript files
+dist/
+
+# for each Ignore ESLint cache
+.eslintcache
+
+# to take  Prettier cache 
+.prettierignore
+.prettiercache
+
+# Ignore build all artifacts
+build/
+out/
+
+# avoid these OS-specific files
+Thumbs.db
+.DS_Store
